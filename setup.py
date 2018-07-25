@@ -22,7 +22,7 @@ setup(
     name='pampo',
     version='0.1.0',
     description="Package to extract named entities from texts written in Portuguese",
-    long_description=readme + '\n\n' + history,
+    long_description=readme,
     author="Arian Pasquali",
     author_email='arrp@inesctec.pt',
     url='https://github.com/LIAAD/py-pampo',
