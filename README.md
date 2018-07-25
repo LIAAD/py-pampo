@@ -3,9 +3,9 @@ Python package for PAMPO (PAttern Matching and POs tagging based algorithm for N
 
 Package to extract named entities from texts written in Portuguese and potentially applicable to other languages
 
-	- Free software: GNU General Public License v3
-	- Paper: PAMPO: using pattern matching and pos-tagging for effective Named Entities recognition in Portuguese.
-	https://arxiv.org/abs/1612.09535
+* Free software: GNU General Public License v3
+* Paper: PAMPO: using pattern matching and pos-tagging for effective Named Entities recognition in Portuguese.
+https://arxiv.org/abs/1612.09535
 
 
 ## Features
@@ -65,13 +65,13 @@ To use in a project:
 	Quintans
 
 ## Credits
-	- Conceicao Rocha, Ph.D, conceicaonunesrocha@gmail.com
-	- Arian Pasquali, Msc., arrp@inesctec.pt
-	- Alípio Jorge,
-	- Roberta Sionara, Msc.
-	- Paula Brito, Ph.D
-	- Carlos Pimenta, Ph.D
-	- Solange Rezende, Ph.D
+- Conceicao Rocha, Ph.D, conceicaonunesrocha@gmail.com
+- Arian Pasquali, Msc., arrp@inesctec.pt
+- Alípio Jorge,
+- Roberta Sionara, Msc.
+- Paula Brito, Ph.D
+- Carlos Pimenta, Ph.D
+- Solange Rezende, Ph.D
 
 ## Citation
 If you use this library in academy please cite our paper:
