@@ -1,0 +1,7 @@
+pytest
+click
+nltk
+unidecode
+python-pcre
+pandas
+segtok
