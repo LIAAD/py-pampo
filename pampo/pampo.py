@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import click
-from ner import *
+from .ner import *
 
 @click.command()
 @click.argument('input', type=click.File('rb'))

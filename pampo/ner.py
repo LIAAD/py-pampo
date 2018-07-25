@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import pcre as re
-from pattern_lists import *
+from .pattern_lists import *
 from unidecode import unidecode
 import unicodedata
 import sys
