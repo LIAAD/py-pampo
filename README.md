@@ -7,6 +7,10 @@ Package to extract named entities from texts written in Portuguese and potential
 * Paper: PAMPO: using pattern matching and pos-tagging for effective Named Entities recognition in Portuguese.
 https://arxiv.org/abs/1612.09535
 
+## Installation
+Using python3.
+
+	pip install git+https://github.com/LIAAD/py-pampo.git
 
 ## Features
 Extract entities from Portuguese texts.
