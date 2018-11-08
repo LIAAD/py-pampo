@@ -20,7 +20,7 @@ test_requirements = [
 
 setup(
     name='pampo',
-    version='0.1.0',
+    version='0.1.1',
     description="Package to extract named entities from texts written in Portuguese",
     long_description=readme,
     author="Arian Pasquali",
