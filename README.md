@@ -23,7 +23,7 @@ To use PAMPO from the terminal:
 
 To use in a project:
 
-	import ner
+	import pampo
 
 	pt_news = """
 	A pesquisa da UFPB revela que a região do Cariri Ocidental da Paraíba está em avançado estágio de desertificação por causa da seca. Segundo o professor Lucindo José Quintans, 46, a vegetação nativa está se extinguindo em consequência da seca.
@@ -34,7 +34,7 @@ To use in a project:
 	Quintans afirma que a previsão é de que este ano também será seco. 'Se a seca se prolongar em 1994 e 1995, todos os animais serão extintos e metade da população deixará a região', afirmou.
 	"""
 
-	response = ner.extract_entities(pt_news)
+	response = pampo.extract_entities(pt_news)
 
 	print("\n".join(response))
 
